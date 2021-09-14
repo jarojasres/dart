@@ -9,4 +9,4 @@ This repository seeks to collect relevant information about Dart
 3. [Final vs Constant](https://github.com/jarojasres/dart/blob/main/Basic/finalVsConst.dart)
 4. [Comments](https://github.com/jarojasres/dart/blob/main/Basic/comments.dart)
 5. [Mathematical Operators](https://github.com/jarojasres/dart/blob/main/Basic/mathematicalOperators.dart)
-
+6. [Operators](https://github.com/jarojasres/dart/blob/main/Basic/operators.dart)
