@@ -21,3 +21,7 @@ This repository seeks to collect relevant information about Dart
 6. [Break and Continue](https://github.com/jarojasres/dart/blob/main/Control/breakAndContinue.dart)
 7. [Label for](https://github.com/jarojasres/dart/blob/main/Control/labelFor.dart)
 8. [Switch](https://github.com/jarojasres/dart/blob/main/Control/switch.dart)
+
+## Functions
+
+1. [Arguments](https://github.com/jarojasres/dart/blob/main/Functions/arguments.dart)
